@@ -43,15 +43,15 @@ I am an **Embedded Systems Developer** and **IoT Enthusiast** with a strong back
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yybhdx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false&rank_icon=github" alt="yybhdx's GitHub stats" />
+  <img src="https://github-readme-stats-juejin.vercel.app/api?username=yybhdx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="yybhdx's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yybhdx&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="https://github-readme-stats-juejin.vercel.app/api/top-langs/?username=yybhdx&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
 </p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yybhdx&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yybhdx&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -60,9 +60,3 @@ I am an **Embedded Systems Developer** and **IoT Enthusiast** with a strong back
 - 📧 Email: [2750664768@qq.com](mailto:2750664768@qq.com)
 - 📱 Phone/WeChat: +86 15952290200
 - 📍 Location: Xuzhou, Jiangsu, China
-
-<!-- 
-Note: If stats images are broken, try these mirror links:
-Stats: https://github-readme-stats-juejin.vercel.app/api?username=yybhdx&show_icons=true&theme=radical
-Langs: https://github-readme-stats-juejin.vercel.app/api/top-langs/?username=yybhdx&layout=compact&theme=radical
--->
