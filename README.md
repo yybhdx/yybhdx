@@ -43,9 +43,9 @@ I am an **Embedded Systems Developer** and **IoT Enthusiast** with a strong back
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-juejin.vercel.app/api?username=yybhdx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="yybhdx's GitHub stats" />
+  <img src="https://github-stats.ubrong.com/api?username=yybhdx&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=false" alt="yybhdx's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats-juejin.vercel.app/api/top-langs/?username=yybhdx&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
+  <img src="https://github-stats.ubrong.com/api/top-langs/?username=yybhdx&layout=compact&theme=radical&hide_border=false" alt="Top Langs" />
 </p>
 
 ## 🔥 Streak Stats
